@@ -1,5 +1,5 @@
 
-const numbers = arrayFromRange(1, -4);
+const numbers = arrayFromRange(1, 5);
 
 console.log(numbers);
 

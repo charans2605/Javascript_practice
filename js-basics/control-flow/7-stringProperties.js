@@ -14,3 +14,4 @@ function showProperties(obj) {
       console.log(key, obj[key]);
   }
 }
+
